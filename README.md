@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Greetings to the newcomer, I'm <a href="https://github.com/Elverona" target="_blank">Maksim</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">I'am a student from Russia. I studying programming and the IT industry. In the future, I see myself as a full-stack developer</h2>
+<p> - 🌱 I am interested in working in the IT field, I am engaged in coding and layout. I try to improve in these areas.<br>
+- 🔭 At the moment I am getting a higher education in the specialty Information systems and technologies.<br>
+- 💬 If you want to contact me: here is my Email - ["max283@bk.ru"].</p>
 
 <!--
 **Elverona/Elverona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
